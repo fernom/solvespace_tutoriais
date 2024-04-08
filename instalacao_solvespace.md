@@ -3,8 +3,8 @@
 >SOLVESPACE is a free (GPLv3) parametric 3d CAD tool.
 
 ### Download
-(https://solvespace.com/download.pl)
-(https://github.com/solvespace/solvespace)
+(https://solvespace.com/download.pl)  
+(https://github.com/solvespace/solvespace)  
 
 ### Windows
 Basta baixar e executar o arquivo, não precisa de instalação.
