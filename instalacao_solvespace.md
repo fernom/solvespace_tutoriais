@@ -1,10 +1,10 @@
-## Instalação [Solvespace](https://solvespace.com/download.pl)
+## Instalação Solvespace
 
 >SOLVESPACE is a free (GPLv3) parametric 3d CAD tool.
 
 ### Download
-(https://solvespace.com/download.pl)  
-(https://github.com/solvespace/solvespace)  
+[Site](https://solvespace.com/download.pl)  
+[Github](https://github.com/solvespace/solvespace)  
 
 ### Windows
 Basta baixar e executar o arquivo, não precisa de instalação.
